@@ -1,0 +1,30 @@
+<article class="animate relative blog-item-holder center-relative has-post-thumbnail">
+                <div class="post-thumbnail">
+                    <a href="REPLACE ME"> <!-- don't forget to update me -->
+                        <img src="images/logo/cube.png" alt="" />
+                    </a>
+                </div>
+                <div class="entry-holder">
+                    <div class="entry-info">
+                        <div class="cat-links">
+                            <ul>
+                                <li>
+                                    <a href="#">CATEGPORY</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <h2 class="entry-title"> <!-- don't forget to update me -->
+                                <a href="REPLACE ME">TITLE <i>ITALICS</i></a>
+                                </h2>
+                    <div class="excerpt">
+                        <p>DESCRIPTION</p>
+                    </div>
+                    <p class="read-more-arrow">
+                        <a href="REPLACE ME"> <!-- don't forget to update me -->
+                            <span class="fa fa-arrow-right" aria-hidden="true"></span>
+                        </a>
+                    </p>
+                </div>
+                <div class="clear"></div>
+            </article>
