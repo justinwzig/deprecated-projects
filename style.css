@@ -1,6 +1,7 @@
 /* ===================================
     1. Global CSS
 ====================================== */
+
 body
 {
     font-family: 'Lato', sans-serif;
@@ -24,19 +25,19 @@ body a:hover
     color: #6a6a6a;
 }
 
+body ::selection
+{
+    background-color: #fffaa3;
+}
+
+body ::-moz-selection
+{
+    background-color: #fffaa3;
+}
+
 #content p 
 {
     margin-bottom: 16px;
-}
-
-.site-wrapper ::selection 
-{
-    background-color: #fffaa3;
-}
-
-.site-wrapper ::-moz-selection
-{
-    background-color: #fffaa3;
 }
 
 .doc-loader 
